@@ -1,4 +1,4 @@
-# **Project Name**  
+# **Theemwiz**  
 **Description:** A responsive HTML/Bootstrap webpage built for Theemwiz.  
 
 ## **How to View**  
